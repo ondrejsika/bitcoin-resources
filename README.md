@@ -5,4 +5,5 @@
 
 My collection papers and other resources about Bitcoin, Ethereum and other crypto stuff.
 
+Go to [index](index.md)
 
